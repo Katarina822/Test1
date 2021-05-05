@@ -1,0 +1,18 @@
+body  {
+    background-image: url(img/img2.jpg) ;
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+pre {
+    color: rgb(247, 244, 240)
+}
+.block1 {
+    border: 10px;
+    max-width: 460px;
+    color: rgb(247, 244, 240);
+    padding-left: 10%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 2;
+    font-size: 20px;
+    
+}
